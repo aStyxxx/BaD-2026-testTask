@@ -1,0 +1,36 @@
+﻿# Visual Studio тимчасові файли та кеш
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Папки збірки (Build / Output)
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Скомпільовані файли та проміжні об'єкти
+*.obj
+*.o
+*.lib
+*.a
+*.exp
+*.ilk
+*.pdb
+*.idb
+*.exe
+*.dll
+*.ipch
+*.log
+*.tlog
+
+# Звіти та тестові логи
+*.VC.db
+*.VC.opendb
+TestResult*
